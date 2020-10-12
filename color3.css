@@ -1,0 +1,57 @@
+body{
+	background-color: black;
+}
+	.main{
+	font-weight: 50px;
+	font-size: 50px;
+	position: absolute;
+	left:50%;
+}
+
+
+.one {
+color:violet;
+}
+
+
+.two {
+color:indigo;
+}
+
+ .three {
+color:blue;
+   }
+
+ .four {
+color:green;
+   }
+
+.five {
+color:orange;
+   }
+
+.six {
+color:yellow;
+   }
+
+.seven {
+color:red;
+   }
+
+.eight {
+color:violet;
+   }
+
+   .nine {
+color:indigo;
+   }
+
+
+.ten {
+color:blue;
+   }
+
+
+.eleven {
+color:green;
+   }

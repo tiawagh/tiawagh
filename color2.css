@@ -1,0 +1,6 @@
+.rest {
+  font-size: 20px;
+  background: -webkit-linear-gradient(violet, #333, indigo, blue, green, orange, yellow,red);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

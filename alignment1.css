@@ -1,0 +1,12 @@
+.main {
+  float: right;
+  width: 170px;
+  height: 2200px;
+  margin: 100px;
+}
+.one {
+  float: left;
+  width: 170px;
+  height: 140px;
+  margin: 100px;
+}

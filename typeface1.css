@@ -1,0 +1,23 @@
+
+
+.four {
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 60%;
+  letter-spacing: 40px;
+  font-style: oblique;
+  font-size: 850%;
+}
+.rest {
+  font-family: Courier New, serif;
+  line-height: 60%;
+  letter-spacing: 20px;
+  font-style: bold;
+  font-size: 150%;
+}
+.first {
+  font-family: Courier New, serif;
+  line-height: 60%;
+  letter-spacing: 20px;
+  font-style: bold;
+  font-size: 150%;
+}

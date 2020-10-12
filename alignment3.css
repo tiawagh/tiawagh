@@ -1,0 +1,74 @@
+.one {
+     position: absolute;
+  top: 50px;
+  left: 20px;
+
+}
+
+.main {
+       position: absolute;
+  top: 0px;
+  left: 0px;
+
+}
+
+.two {
+       position: absolute;
+  top: 70px;
+left: 40px;
+
+}
+
+ .three {
+   position: absolute;
+  top: 90px;
+  left: 60px;
+   }
+
+ .four {
+   position: absolute;
+  top: 110px;
+  left: 80px;
+   }
+
+.five {
+   position: absolute;
+  top: 130px;
+  left: 100px;
+   }
+
+.six {
+   position: absolute;
+  top: 150px;
+  left: 120px;
+   }
+
+.seven {
+   position: absolute;
+  top: 170px;
+  left: 140px;
+   }
+
+.eight {
+   position: absolute;
+  top: 190px;
+  left: 160px;
+   }
+
+.nine {
+   position: absolute;
+  top: 210px;
+  left: 180px;
+   }
+
+.ten {
+   position: absolute;
+  top: 230px;
+  left: 200px;
+}
+   
+   .eleven {
+   position: absolute;
+  top: 270px;
+  left: 220px;
+   }

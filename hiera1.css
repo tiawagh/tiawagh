@@ -1,0 +1,82 @@
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: oblique;
+  font-size: 50%;
+  text-align: center;
+  }
+
+  .one {
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: oblique;
+  font-size: 100%;
+  text-align: center;
+}
+.two {
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: oblique;
+  font-size: 150%;
+  text-align: center;
+}
+.three {
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 60%;
+  font-style: bold;
+  font-size: 200%;
+  text-align: center;
+}
+.four {
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 60%;
+  font-style: bold;
+  font-size: 250%;
+  text-align: center;
+}
+.five {
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 60%;
+  font-style: bold;
+  font-size: 300%;
+  text-align: center;
+}
+.six {
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 60%;
+  font-style: bold;
+  font-size: 350%;
+  text-align: center;
+}
+.seven {
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 60%;
+  font-style: bold;
+  font-size: 400%;
+  text-align: center;
+}
+.eight {
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 60%;
+  font-style: bold;
+  font-size: 450%;
+  text-align: center;
+}
+.nine {
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 60%;
+  font-style: bold;
+  font-size: 500%;
+  text-align: center;
+}
+.ten {
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 60%;
+  font-style: bold;
+  font-size: 550%;
+  text-align: center;
+}
+.eleven {
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 60%;
+  font-style: bold;
+  font-size: 600%;
+  text-align: center;
+}

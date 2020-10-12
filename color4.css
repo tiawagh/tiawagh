@@ -1,0 +1,78 @@
+body{
+	 background: -webkit-radial-gradient(black,red,black,red,black,red,black,red);
+	}
+	h1 {
+		font-size: 30px;
+	color: black;
+	}
+	.one {
+  font-size: 30px;
+  background: -webkit-linear-gradient(black,red,black,red);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.two {
+  font-size: 30px;
+  background: -webkit-linear-gradient(black,red,black,red,black,red);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.two {
+  font-size: 30px;
+  background: -webkit-linear-gradient(black,red,black,red,black,red);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.three {
+  font-size: 30px;
+  background: -webkit-linear-gradient(black,black,red,black,black,red,black);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.four {
+  font-size: 30px;
+  background: -webkit-linear-gradient(red,black,red,black,red,black,black,red,black,red);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.five {
+  font-size: 30px;
+  background: -webkit-linear-gradient(black,black,red,black,red,black,red,black,black);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.six {
+  font-size: 30px;
+  background: -webkit-linear-gradient(red,black,black,red,black,black,red);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+	.seven {
+  font-size: 30px;
+  background: -webkit-linear-gradient(black,red,black,red);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.eight {
+  font-size: 30px;
+  background: -webkit-linear-gradient(black,red,black,red,black,red);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.nine {
+  font-size: 30px;
+  background: -webkit-linear-gradient(red,black,black,red,black,red);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+	.ten {
+  font-size: 30px;
+  background: -webkit-linear-gradient(black,red,black,red);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+	.eleven {
+		  font-size: 30px;
+ color: black;
+}
