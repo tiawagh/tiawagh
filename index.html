@@ -1,105 +1,48 @@
-<!DOCTYPE HTML>
-<html>
-<head>  
-<script>
-window.onload = function () {
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Remix </title>
+  </head>  
+  <body>
 
-var chart = new CanvasJS.Chart("chartContainer", {
-	animationEnabled: true,
-	title:{
-		text: "Daily Expenditure Per Meal for 1 Week"
-	},
-	axisY: {
-		prefix: "$"
-	},
-	toolTip: {
-		shared: false
-	},
-	legend:{
-		cursor: "pointer",
-		itemclick: toggleDataSeries
-	},
-	data: [{
-		type: "stackedBar",
-		name: "Breakfast",
-		showInLegend: "true",
-         color: "lightgreen",
-        toolTipContent: "<b>Amount: ${y}<br> Category: {meal} <br></b>",
-		dataPoints: [
-			{ y: 6.29, "meal": "Microwave food", label: "Sunday" },
-			{ y: 3.5, "meal": "Home-cooked", label: "Saturday" },
-			{ y: 12.95, "meal": "Takeout", label: "Friday" },
-			{ y: 4.99, "meal": "Microwave food", label: "Thursday" },
-			{ y: 12.95, "meal": "Takeout", label: "Wednesday" },
-			{ y: 3.25, "meal": "Microwave food", label: "Tuesday"  },
-			{ y: 2.36, "meal": "Microwave food", label: "Monday"  }
-		]
-	},
-	{
-		type: "stackedBar",
-		name: "Lunch",
-		showInLegend: "true",
-        color: "gold",
-        toolTipContent: "<b>Amount: ${y}<br> Category: {meal} <br></b>",
-		dataPoints: [
-			{ y: 4.5, "meal": "Microwave food", label: "Sunday" },
-			{ y: 6.5, "meal": "Microwave food", label: "Saturday" },
-			{ y: 5.29, "meal": "Microwave food", label: "Friday" },
-			{ y: 9.49, "meal": "Takeout", label: "Thursday" },
-			{ y: 5.75, "meal": "Home-cooked", label: "Wednesday" },
-			{ y: 4, "meal": "Microwave food", label: "Tuesday" },
-			{ y: 6.5, "meal": "Microwave food", label: "Monday" }
-		]
-	},
-	{
-		type: "stackedBar",
-		name: "Dinner",
-		showInLegend: "true",
-        color: "plum",
-        toolTipContent: "<b>Amount: ${y}<br> Category: {meal} <br></b>",
-		dataPoints: [
-			{ y: 3.9, "meal": "Micowave food", label: "Sunday" },
-			{ y: 4, "meal": "Home-cooked", label: "Saturday" },
-			{ y: 6.75, "meal": "Home-cooked", label: "Friday" },
-			{ y: 17.5, "meal": "Takeout", label: "Thursday" },
-			{ y: 0, label: "Wednesday" },
-			{ y: 15, "meal": "Takeout", label: "Tuesday" },
-			{ y: 7.85, "meal": "Takeout", label: "Monday" }
-		]
-	},
-	{
-		type: "stackedBar",
-		dataPoints: []
-	}]
-});
-chart.render();
+<h1>Remix- Project 2</h1>
+<h1>Remix- Project 2</h1>
 
-function toggleDataSeries(e) {
-	if(typeof(e.dataSeries.visible) === "undefined" || e.dataSeries.visible) {
-		e.dataSeries.visible = false;
-	}
-	else {
-		e.dataSeries.visible = true;
-	}
-	chart.render();
-}
+<h2>Element 1- Alignment</h2>
 
-}
-</script>
-</head>
-<body>
-	<h1>Assignment 1: Track<h1>
-		<br>
-	<h2>Track: Raw Data Table<h2>
-	<img src="rawdata.jpg" alt="Raw Data Table." width="100%">
-	<br>
-	<br>
-	<h2>Track: Visual representation on paper<h2>
-	<img src="visualrepresentationsketch.jpg" alt="Raw Data Table" width="100%">
-	<br>
-    <br>
-	<h2>Track: Visual representation with code<h2>
-<div id="chartContainer" style="height: 500px; width: 100%;"></div>
-<script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
-</body>
+  <a href="remix/all/alignment1.html">Alignment 1</a>
+    <a href="remix/all/alignment2.html">Alignment 2</a>
+      <a href="remix/all/alignment3.html">Alignment 3</a>
+       <a href="remix/all/alignment4.html">Alignment 4</a>
+
+       <h2>Element 2- Color</h2>
+
+  <a href="remix/all/color1.html">Color 1</a>
+    <a href="remix/all/color2.html">Color 2</a>
+      <a href="remix/all/color3.html">Color 3</a>
+       <a href="remix/all/color4.html">Color 4</a>
+
+              <h2>Element 3- Hierarchy</h2>
+
+  <a href="remix/all/hierarchy1.html">Hierarchy 1</a>
+    <a href="remix/all/hierarchy2.html">Hierarchy 2</a>
+      <a href="remix/all/hierarchy3.html">Hierarchy 3</a>
+       <a href="remix/all/hierarchy4.html">Hierarchy 4</a>
+
+                     <h2>Element 4- Typeface</h2>
+
+  <a href="remix/all/typeface1.html">Typeface 1</a>
+    <a href="remix/all/typeface2.html">Typeface 2</a>
+      <a href="remix/all/typeface3.html">Typeface 3</a>
+       <a href="remix/all/typeface4.html">Typeface 4</a>
+
+                            <h2>Element 4- Whitesapce</h2>
+
+  <a href="remix/all/whitespace1.html">Whitesapce 1</a>
+    <a href="remix/all/whitespace2.html">Whitesapce 2</a>
+      <a href="remix/all/whitespace3.html">Whitesapce 3</a>
+       <a href="remix/all/whitespace4.html">Whitesapce 4</a>
+  
+
+ </body>
 </html>
